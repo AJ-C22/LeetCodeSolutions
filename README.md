@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
@@ -29,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
