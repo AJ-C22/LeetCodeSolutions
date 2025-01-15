@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0260-single-number-iii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0260-single-number-iii) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
