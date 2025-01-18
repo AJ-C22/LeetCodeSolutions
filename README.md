@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
+| [0326-power-of-three](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Prefix Sum
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0933-increasing-order-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
