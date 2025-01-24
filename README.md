@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
+| [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
@@ -82,4 +84,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-first-completely-painted-row-or-column](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
