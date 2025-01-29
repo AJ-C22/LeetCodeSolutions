@@ -121,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [1039-find-the-town-judge](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
