@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
