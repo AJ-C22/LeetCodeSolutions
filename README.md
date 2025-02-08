@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0933-increasing-order-search-tree) |
 ## Recursion
 |  |
