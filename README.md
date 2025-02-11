@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0933-increasing-order-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0933-increasing-order-search-tree) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -159,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
