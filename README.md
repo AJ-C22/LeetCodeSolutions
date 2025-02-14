@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0260-single-number-iii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0260-single-number-iii) |
 | [1039-find-the-town-judge](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1039-find-the-town-judge) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -94,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0326-power-of-three](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0326-power-of-three) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
