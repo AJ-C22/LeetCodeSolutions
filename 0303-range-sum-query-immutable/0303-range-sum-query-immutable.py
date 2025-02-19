@@ -4,7 +4,12 @@ class NumArray(object):
         """
         :type nums: List[int]
         """
-        self.nums = nums
+        self.list = nums
+        l = len(self.list)
+        self.pre  = [0] * l
+        self.pre[0] = nums[0]
+        for i in range(1,l):
+            self.pre[i] = self.pre[i-1] + self.list[i] 
 
 
         
@@ -15,11 +20,11 @@ class NumArray(object):
         :type right: int
         :rtype: int
         """
-        Sum = 0
-        while(left<=right):
-            Sum += self.nums[left]
-            left += 1
-        return Sum
+        if left == 0:
+            return self.pre[right]
+        else:
+            return self.pre[right] - self.pre[left - 1]
+
         
 
 
