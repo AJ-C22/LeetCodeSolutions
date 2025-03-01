@@ -15,19 +15,15 @@ class Solution(object):
             return False
 
         def helper(root, s):
-            if root is None:
-                return False  
-            
-            s += root.val  
-
-            if root.left is None and root.right is None:
+            if root == None:
+                return False
+            if root.left == None and root.right == None:
+                s += root.val
                 if s == targetSum:
-                    print("yes")
                     return True
                 return False
             
-            return helper(root.left, s) or helper(root.right, s)
-
+            return helper(root.left, s + root.val) or helper(root.right, s + root.val)
         
         return helper(root, 0)
         
