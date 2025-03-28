@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [1039-find-the-town-judge](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0182-duplicate-emails) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
