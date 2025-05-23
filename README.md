@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0260-single-number-iii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0260-single-number-iii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
