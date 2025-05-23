@@ -4,16 +4,15 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        m = max(prices)
-        diff = 0
-        l = len(prices)
-        for i in range(l):
-            if prices[i] < m:
-                m = prices[i]
-            if prices[i] - m > diff:
-                diff = prices[i] - m
+        low = max(prices)
+        prof = 0
+        for num in prices:
+            if num < low:
+                low = num
+            if num - low > prof:
+                prof = num - low
 
-        return diff
-        
+        return prof
+            
 
         
