@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0595-big-countries) |
+| [1908-recyclable-and-low-fat-products](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Sliding Window
 |  |
 | ------- |
