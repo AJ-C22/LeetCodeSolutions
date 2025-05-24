@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0595-big-countries) |
