@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0143-reorder-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0392-is-subsequence) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0143-reorder-list) |
 | [0933-increasing-order-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0933-increasing-order-search-tree) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0143-reorder-list) |
 | [0326-power-of-three](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0326-power-of-three) |
 ## Matrix
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0143-reorder-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0143-reorder-list) |
 ## Simulation
 |  |
 | ------- |
