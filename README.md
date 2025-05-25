@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0133-clone-graph) |
