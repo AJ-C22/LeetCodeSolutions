@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0595-big-countries) |
+| [1179-game-play-analysis-i](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1258-article-views-i) |
 | [1670-patients-with-a-condition](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1811-fix-names-in-a-table) |
