@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [1039-find-the-town-judge](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0143-reorder-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
