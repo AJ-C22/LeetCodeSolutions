@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0260-single-number-iii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
