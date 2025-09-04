@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
+| [0792-binary-search](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [1039-find-the-town-judge](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0268-missing-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
+| [0792-binary-search](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0933-increasing-order-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0933-increasing-order-search-tree) |
 ## Recursion
 |  |
