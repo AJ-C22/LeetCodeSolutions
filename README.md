@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0169-majority-element) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0268-missing-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
