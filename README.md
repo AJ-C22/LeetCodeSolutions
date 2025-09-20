@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 ## Database
