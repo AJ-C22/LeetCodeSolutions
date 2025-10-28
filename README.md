@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Design
 |  |
 | ------- |
