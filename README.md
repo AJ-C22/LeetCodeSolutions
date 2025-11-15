@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0260-single-number-iii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Graph
 |  |
@@ -365,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
