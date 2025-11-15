@@ -7,13 +7,12 @@ class Solution(object):
         i, j = 0, 0
         h = len(grid) - 1
         w = len(grid[0]) - 1
-        stack = [[i,j] for i in range(len(grid)) for j in range(len(grid[0]))]
         visited = set()
         count = 0
 
         for x in range(len(grid)):
             for y in range(len(grid[0])):
-                
+
                 if (x, y) in visited or grid[x][y] == "0":
                     continue
 
