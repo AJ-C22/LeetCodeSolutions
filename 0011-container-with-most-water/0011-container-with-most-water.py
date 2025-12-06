@@ -4,22 +4,18 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        j = len(height) - 1
-        curr = 0
+        l = len(height)
+        j = l - 1
         i = 0
+        area = 0
         while i < j:
-            wid = min(height[i], height[j])
-            length = j - i
-            area = wid * length
-            if wid == height[i]:
-                i += 1
-            else:
+            h = min(height[i], height[j])
+            w = j - i
+            if w * h > area:
+                area = w * h
+            if height[j] < height[i]:
                 j -= 1
-            if area > curr:
-                curr = area
+            else:
+                i += 1
 
-        return curr
-            
-
-        
-        
+        return area
