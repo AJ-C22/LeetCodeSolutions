@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3606-coupon-code-validator](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3606-coupon-code-validator) |
 ## Backtracking
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3606-coupon-code-validator](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Two Pointers
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3606-coupon-code-validator](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3606-coupon-code-validator](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3606-coupon-code-validator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
