@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0933-increasing-order-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0933-increasing-order-search-tree) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0933-increasing-order-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0933-increasing-order-search-tree) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0933-increasing-order-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0933-increasing-order-search-tree) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0792-binary-search](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Graph
 |  |
