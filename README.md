@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-daily-leads-and-partners](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1934-confirmation-rate) |
 | [1948-rearrange-products-table](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2057-count-salary-categories) |
