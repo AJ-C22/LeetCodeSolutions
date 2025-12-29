@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-game-play-analysis-i](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1258-article-views-i) |
+| [1341-movie-rating](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1393-capital-gainloss) |
 | [1415-students-and-examinations](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
