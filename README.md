@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0394-decode-string) |
 | [0933-increasing-order-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0933-increasing-order-search-tree) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0143-reorder-list) |
 | [0326-power-of-three](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0394-decode-string) |
 ## Matrix
 |  |
 | ------- |
