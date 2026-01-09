@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0933-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0933-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0933-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
