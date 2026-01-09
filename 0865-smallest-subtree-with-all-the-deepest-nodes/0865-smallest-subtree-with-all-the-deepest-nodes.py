@@ -10,7 +10,7 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: Optional[TreeNode]
         """
-        queue = [root]
+        queue = deque([root])
         level = 0
         levels = []
         d = {}
@@ -19,7 +19,7 @@ class Solution(object):
             r = len(queue)
             levels.append([])
             for _ in range(r):
-                node = queue.pop(0)
+                node = queue.popleft()
                 levels[level].append(node.val)
                 if not node:
                     continue
