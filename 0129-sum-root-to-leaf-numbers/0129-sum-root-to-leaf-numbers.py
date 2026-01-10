@@ -10,29 +10,33 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        if not root:
-            return 0
-        lst = []
-        
-        stack = [[root, lst]]
-        result = []
-        while stack:
-            node, lst = stack.pop()
-            curr_path = lst + [node.val]
-            if node.right:
-                stack.append([node.right, curr_path])
-            if node.left:
-                stack.append([node.left, curr_path])
-            if not node.right and not node.left:
-                result.append(curr_path)
-        final = []
-        for lst in result:
-            l = len(lst)
-            num = 0
-            for i in range(l):
-                num += lst[i] * 10**(l - 1 - i)
-            final.append(num)
-        
-        return sum(final)
-                
+        def helper(root, path, lst):
+            if not root:
+                return 
+            path = path + [root.val]
+            if not root.right and not root.left:
+                lst.append(path)
+            helper(root.right, path, lst)
+            helper(root.left, path, lst)
 
+        lsts = []
+        path = []
+        helper(root, path, lsts)
+        result = []
+        for num in lsts:
+            l = len(num)
+            s = 0
+            for digit in num:
+                s += digit * 10**(l-1)
+                l -= 1
+            result.append(s)
+
+        return sum(result)
+
+
+
+        print(lst)
+
+
+        
+        
