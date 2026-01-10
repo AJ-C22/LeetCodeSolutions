@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
