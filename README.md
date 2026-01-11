@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0071-simplify-path) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0077-combinations) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0169-majority-element) |
