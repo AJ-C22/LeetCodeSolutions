@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
