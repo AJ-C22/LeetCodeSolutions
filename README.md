@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0071-simplify-path) |
+| [0139-word-break](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0409-longest-palindrome) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 ## Database
 |  |
@@ -455,4 +459,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
