@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-calculate-special-bonus](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3220-odd-and-even-transactions](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3220-odd-and-even-transactions) |
 ## Sliding Window
 |  |
 | ------- |
