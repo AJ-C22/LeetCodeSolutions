@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1039-find-the-town-judge) |
+| [1200-minimum-absolute-difference](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [1200-minimum-absolute-difference](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3606-coupon-code-validator](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/3606-coupon-code-validator) |
 ## Heap (Priority Queue)
