@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1070-product-sales-analysis-iii) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AJ-C22/LeetCodeSolutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
